@@ -129,16 +129,16 @@ Regular practice with algorithms, data structures, searching, sorting, recursion
 <div align="center">
 
 <a href="https://github.com/kamalgupta1518-netizen">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kamalgupta1518-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Kamal's GitHub stats" />
+<img height="180" src="./profile/stats.svg" alt="Kamal's GitHub stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/kamalgupta1518-netizen">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalgupta1518-netizen&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
+<img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 </a>
 
 <br><br>
 
-<a href="https://git.io/streak-stats">
+<a href="https://github.com/kamalgupta1518-netizen">
 <img src="https://streak-stats.demolab.com/?user=kamalgupta1518-netizen&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </a>
 
