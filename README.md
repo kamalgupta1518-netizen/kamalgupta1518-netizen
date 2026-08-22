@@ -50,7 +50,15 @@ kamal = {
 
 ### Frameworks, Libraries & Data
 <p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,pandas,numpy,sklearn,matplotlib&perline=8" alt="Frameworks and libraries" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi&perline=8" height="55" alt="Flask and FastAPI" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="55" alt="Pandas" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="55" alt="NumPy" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="55" alt="Scikit-learn" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="55" alt="Matplotlib" />
 </p>
 
 ### Tools & Platforms
@@ -120,13 +128,19 @@ Regular practice with algorithms, data structures, searching, sorting, recursion
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamalgupta1518-netizen&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8&icon_color=22D3EE" height="175" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalgupta1518-netizen&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" height="175" alt="Top languages" />
+<a href="https://github.com/kamalgupta1518-netizen">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kamalgupta1518-netizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Kamal's GitHub stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kamalgupta1518-netizen">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalgupta1518-netizen&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kamalgupta1518-netizen&hide_border=true&background=00000000&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com/?user=kamalgupta1518-netizen&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 <br><br>
 
@@ -140,12 +154,12 @@ Regular practice with algorithms, data structures, searching, sorting, recursion
 
 ```text
 ┌─────────────────────────────────────────────────────┐
-│  🧩 Data Structures & Algorithms                     │
-│  ⚙️  Backend Development                             │
-│  🤖 Machine Learning & Data Science                  │
-│  🧠 AI-powered Applications                           │
-│  🛠️  Practical Developer Tools                       │
-│  📚 Software Engineering Fundamentals                │
+│  🧩 Data Structures & Algorithms                    │
+│  ⚙️  Backend Development                            │
+│  🤖 Machine Learning & Data Science                 │
+│  🧠 AI-powered Applications                          │
+│  🛠️  Practical Developer Tools                      │
+│  📚 Software Engineering Fundamentals               │
 └─────────────────────────────────────────────────────┘
 ```
 
