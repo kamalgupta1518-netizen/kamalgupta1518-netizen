@@ -1,76 +1,55 @@
 <div align="center">
 
-# 👋 Hey, I'm Kamal Jeet Gupta
+# Kamal Jeet Gupta
 
-### 💻 Computer Science Student • Python Developer • DSA Learner • Builder
+### Computer Science Student · Python Developer · Problem Solver
 
-<p>
-  <a href="https://github.com/kamalgupta1518-netizen"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:kamalgupta1518@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+I build practical software, explore AI & data, and sharpen my fundamentals through DSA.
+
+<a href="https://github.com/kamalgupta1518-netizen">GitHub</a> · <a href="mailto:kamalgupta1518@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About
 
-I'm a **Computer Science student** who enjoys turning ideas into working software and learning by building.
+I'm a Computer Science student interested in **software development, data, AI, and problem solving**.
 
-- 🐍 Exploring **Python, Java, DSA, and problem solving**
-- 🤖 Interested in **AI, data science, and intelligent applications**
-- 🌐 Building projects with **Flask, FastAPI, HTML/CSS, and modern web tools**
-- 📚 Practicing **LeetCode and algorithmic problem solving**
-- 🔧 I like understanding how things work and improving projects step by step
-- 🎯 Currently focused on becoming a stronger **developer + problem solver**
+I learn best by building — from search engines and recommendation systems to developer tools and algorithmic solutions.
 
-> **Learn → Build → Debug → Improve → Repeat 🔁**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css" alt="Languages" />
-</p>
-
-### ⚙️ Frameworks & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vercel" alt="Frameworks and tools" />
-</p>
-
-### 📊 Data & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" alt="Data and AI" />
-</p>
-
-Also working with **Matplotlib, Bootstrap, Chart.js, Anaconda, PowerShell, Google Cloud, and Render**.
+- 🔭 Building projects with **Python, APIs, and backend technologies**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🤖 Exploring **Machine Learning, Data Science & AI**
+- 🌐 Learning **backend and web development**
+- 📈 Improving through consistent coding and real-world projects
 
 ---
 
-## 🔥 Featured Work
+## 🧰 Tech Stack
 
-### 🔎 Mini Search Engine
-A Python-based search engine project built around **inverted indexes, boolean search, TF-IDF ranking, phrase search, snippets, and analytics**.
+**Languages**
 
-**Focus:** Data Structures • Information Retrieval • Python • FastAPI • Flask
+`Python` `Java` `HTML` `CSS`
 
-### 🧠 CodeGraphContext
-Exploring code-focused tooling and context-aware developer workflows.
+**Frameworks & Libraries**
 
-**Focus:** Developer Tools • Code Intelligence • GitHub
+`Flask` `FastAPI` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Bootstrap` `Chart.js`
 
-### 🎬 Movie Recommender
-A recommendation project using **Python, Pandas, Scikit-learn, and the TMDB API** to recommend movies with posters.
+**Tools & Platforms**
 
-**Focus:** Machine Learning • APIs • Data Processing
+`Git` `GitHub` `PowerShell` `Anaconda` `Vercel` `Render` `Google Cloud`
 
-### 💡 LeetCode & DSA Practice
-Regularly practicing coding problems to strengthen **arrays, strings, searching, sorting, linked lists, stacks, queues, trees, and algorithms**.
+---
+
+## 🚀 Selected Projects
+
+| Project | What I built | Focus |
+|---|---|---|
+| 🔎 **Mini Search Engine** | Inverted index, Boolean search, TF-IDF ranking, phrase search & snippets | Python · DSA · Information Retrieval |
+| 🧠 **CodeGraphContext** | Code-focused tooling and context-aware developer workflows | Developer Tools · Code Intelligence |
+| 🎬 **Movie Recommender** | Movie recommendations with ML/data processing and TMDB integration | Python · ML · APIs |
+| 💡 **LeetCode** | Algorithm and data-structure problem solving | DSA · Algorithms · Python |
 
 ---
 
@@ -78,83 +57,49 @@ Regularly practicing coding problems to strengthen **arrays, strings, searching,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamalgupta1518-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Kamal's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalgupta1518-netizen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kamal's most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamalgupta1518-netizen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalgupta1518-netizen&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
 
-<br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=kamalgupta1518-netizen&theme=tokyonight&hide_border=true" alt="Kamal's GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=kamalgupta1518-netizen&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Learning
 
-<table>
-<tr>
-<td width="50%">
-
-**🧠 Problem Solving**
-
-Strengthening DSA fundamentals and solving problems consistently.
-
-</td>
-<td width="50%">
-
-**🐍 Python Development**
-
-Building practical applications with Python, APIs and backend tools.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤖 AI & Data**
-
-Exploring machine learning, data analysis and intelligent applications.
-
-</td>
-<td width="50%">
-
-**🚀 Building Projects**
-
-Turning concepts into projects that solve real problems.
-
-</td>
-</tr>
-</table>
+```text
+Data Structures & Algorithms
+Backend Development
+Machine Learning & Data Science
+AI-powered Applications
+Software Engineering Practices
+```
 
 ---
 
-## 📚 Learning Journey
+## 🌱 Philosophy
 
-**Python** → **DSA & Algorithms** → **Backend Development** → **Data Science** → **AI/ML** → **Real-world Projects**
+> **Build things that teach you something.**
 
-I'm especially interested in projects where **software engineering + data + AI** come together.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating on projects, discussing tech, and connecting with fellow developers.
-
-<p>
-  <a href="mailto:kamalgupta1518@gmail.com">📧 Email</a> •
-  <a href="https://github.com/kamalgupta1518-netizen">🐙 GitHub</a>
-</p>
+I don't want to just collect technologies — I want to understand the fundamentals behind them and use them to solve meaningful problems.
 
 ---
+
+## 📫 Connect
+
+If you're interested in technology, coding, AI, or building projects, feel free to connect.
+
+- 📧 **Email:** [kamalgupta1518@gmail.com](mailto:kamalgupta1518@gmail.com)
+- 🐙 **GitHub:** [@kamalgupta1518-netizen](https://github.com/kamalgupta1518-netizen)
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<br>
 
-<sub>Built with curiosity, code, and a lot of debugging ☕</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kamalgupta1518-netizen&style=for-the-badge&color=blueviolet" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=kamalgupta1518-netizen&style=flat-square&color=grey)
 
 </div>
