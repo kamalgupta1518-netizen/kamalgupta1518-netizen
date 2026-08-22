@@ -74,36 +74,63 @@ Regularly practicing coding problems to strengthen **arrays, strings, searching,
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamalgupta1518-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kamal's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalgupta1518-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamalgupta1518-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Kamal's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalgupta1518-netizen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kamal's most used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=kamalgupta1518-netizen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=kamalgupta1518-netizen&theme=tokyonight&hide_border=true" alt="Kamal's GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🏆 What I'm Working Toward
+## 🎯 Current Focus
 
-```text
-DSA & Problem Solving   ███████████████░░░  Learning
-Python & Development   ████████████████░░  Building
-AI & Data Science      ████████████░░░░░░  Exploring
-Web Development        █████████████░░░░░  Growing
-Open Source             ████████░░░░░░░░░░  Getting Started
-```
+<table>
+<tr>
+<td width="50%">
+
+**🧠 Problem Solving**
+
+Strengthening DSA fundamentals and solving problems consistently.
+
+</td>
+<td width="50%">
+
+**🐍 Python Development**
+
+Building practical applications with Python, APIs and backend tools.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤖 AI & Data**
+
+Exploring machine learning, data analysis and intelligent applications.
+
+</td>
+<td width="50%">
+
+**🚀 Building Projects**
+
+Turning concepts into projects that solve real problems.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Current Learning Path
+## 📚 Learning Journey
 
-**Python** → **DSA** → **Backend Development** → **Data Science** → **AI/ML** → **Real-world Projects**
+**Python** → **DSA & Algorithms** → **Backend Development** → **Data Science** → **AI/ML** → **Real-world Projects**
 
 I'm especially interested in projects where **software engineering + data + AI** come together.
 
