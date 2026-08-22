@@ -1,18 +1,133 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kamaljeet Gupta) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kamaljeet Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamalgupta1518@gmail.com) 
+# 👋 Hey, I'm Kamal Jeet Gupta
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username= Kamal_Gupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user= Kamal_Gupta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username= Kamal_Gupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💻 Computer Science Student • Python Developer • DSA Learner • Builder
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username= Kamal_Gupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>
+  <a href="https://github.com/kamalgupta1518-netizen"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:kamalgupta1518@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username= Kamal_Gupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **Computer Science student** who enjoys turning ideas into working software and learning by building.
+
+- 🐍 Exploring **Python, Java, DSA, and problem solving**
+- 🤖 Interested in **AI, data science, and intelligent applications**
+- 🌐 Building projects with **Flask, FastAPI, HTML/CSS, and modern web tools**
+- 📚 Practicing **LeetCode and algorithmic problem solving**
+- 🔧 I like understanding how things work and improving projects step by step
+- 🎯 Currently focused on becoming a stronger **developer + problem solver**
+
+> **Learn → Build → Debug → Improve → Repeat 🔁**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" alt="Languages" />
+</p>
+
+### ⚙️ Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vercel" alt="Frameworks and tools" />
+</p>
+
+### 📊 Data & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" alt="Data and AI" />
+</p>
+
+Also working with **Matplotlib, Bootstrap, Chart.js, Anaconda, PowerShell, Google Cloud, and Render**.
+
+---
+
+## 🔥 Featured Work
+
+### 🔎 Mini Search Engine
+A Python-based search engine project built around **inverted indexes, boolean search, TF-IDF ranking, phrase search, snippets, and analytics**.
+
+**Focus:** Data Structures • Information Retrieval • Python • FastAPI • Flask
+
+### 🧠 CodeGraphContext
+Exploring code-focused tooling and context-aware developer workflows.
+
+**Focus:** Developer Tools • Code Intelligence • GitHub
+
+### 🎬 Movie Recommender
+A recommendation project using **Python, Pandas, Scikit-learn, and the TMDB API** to recommend movies with posters.
+
+**Focus:** Machine Learning • APIs • Data Processing
+
+### 💡 LeetCode & DSA Practice
+Regularly practicing coding problems to strengthen **arrays, strings, searching, sorting, linked lists, stacks, queues, trees, and algorithms**.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamalgupta1518-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kamal's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalgupta1518-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kamalgupta1518-netizen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🏆 What I'm Working Toward
+
+```text
+DSA & Problem Solving   ███████████████░░░  Learning
+Python & Development   ████████████████░░  Building
+AI & Data Science      ████████████░░░░░░  Exploring
+Web Development        █████████████░░░░░  Growing
+Open Source             ████████░░░░░░░░░░  Getting Started
+```
+
+---
+
+## 📚 Current Learning Path
+
+**Python** → **DSA** → **Backend Development** → **Data Science** → **AI/ML** → **Real-world Projects**
+
+I'm especially interested in projects where **software engineering + data + AI** come together.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating on projects, discussing tech, and connecting with fellow developers.
+
+<p>
+  <a href="mailto:kamalgupta1518@gmail.com">📧 Email</a> •
+  <a href="https://github.com/kamalgupta1518-netizen">🐙 GitHub</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<sub>Built with curiosity, code, and a lot of debugging ☕</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kamalgupta1518-netizen&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+</div>
